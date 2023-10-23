@@ -1,0 +1,16 @@
+Designed to run on multiple cores and to support concurrency.
+static type language.
+Used for multi-threading.
+Used in server-side or backend language.
+Go programs are organized into packages.
+Go's standard library, provides different core packages for us to use
+fmt is one of these, which you can us it by importing it.
+A package is a collection of source files.
+
+steps:
+go mod init GoLangOp -> To initiate our project
+
+import "fmt"
+go run hello.go -> runs the code.
+
+go run main.go deck-receiver.go -> Run two files in same package
