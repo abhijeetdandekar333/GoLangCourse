@@ -55,6 +55,3 @@ func (eb englishBot) getGreeting()string  { //If you are a type in this program 
 func (sb spanishBot) getGreeting()string  {
 	return "Hola!"
 }
-
-
-
